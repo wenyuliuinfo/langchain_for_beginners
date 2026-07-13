@@ -1,0 +1,9 @@
+# LangChain packages
+langchain-openai>=1.3.5
+langchain-core>=1.4.9
+langchain>=1.3.13
+langchain-azure-ai>=1.1.0
+langchain-mcp-adapters>=0.2.2
+
+# Utilities
+python-dotenv>=1.2.2
