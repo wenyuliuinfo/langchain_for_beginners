@@ -8,3 +8,4 @@ langchain-mcp-adapters>=0.2.2
 # Utilities
 python-dotenv>=1.2.2
 google-search-results
+zhipuai
