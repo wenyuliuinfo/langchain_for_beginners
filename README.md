@@ -81,42 +81,42 @@ Navigate into a module folder and execute the main Python script.
 
 This repository is structured to guide you through the entire LangChain ecosystem.
 
-### 1. Introduction (01-introduction)
+#### 1. Introduction (01-introduction)
 Core Concepts: Understand what LangChain is, its architecture, and its core components (Models, Prompts, Chains, Agents, Memory).
 
 Setup: Install LangChain and get ready to build.
 
-### 2. Chat Models (02-chat-models)
+#### 2. Chat Models (02-chat-models)
 Chat vs. Completion: Learn the difference and how to use LangChain's chat model interfaces.
 
 Message Types: Work with SystemMessage, HumanMessage, and AIMessage to create structured conversations.
 
-### 3. Prompts, Messages, and Outputs (03-prompts-messages-outputs)
+#### 3. Prompts, Messages, and Outputs (03-prompts-messages-outputs)
 Prompt Templates: Create reusable and dynamic prompts.
 
 Output Parsers: Structure LLM responses into useful Python objects (e.g., lists, JSON).
 
-### 4. Function Calling & Tools (04-function-calling-tools)
+#### 4. Function Calling & Tools (04-function-calling-tools)
 Tool Definition: Learn how to define functions and make them callable by an LLM.
 
 Tool Binding: Bind tools to chat models to enable them to take actions.
 
-### 5. Agents (05-agents)
+#### 5. Agents (05-agents)
 Agent Architecture: Understand the reasoning loop and how agents decide which tools to use.
 
 Agent Types: Explore different agent types (e.g., ReAct, OpenAI Tools).
 
-### 6. MCP (06-mcp)
+#### 6. MCP (06-mcp)
 Model Context Protocol: Introduction to MCP for standardized model interactions.
 
-### 7. Documents & Embeddings (07-documents-embeddings)
+#### 7. Documents & Embeddings (07-documents-embeddings)
 Document Loading: Load data from various sources (PDFs, web pages, etc.).
 
 Text Splitting: Chunk documents for efficient processing.
 
 Embeddings & Vector Stores: Create embeddings and store them in vector databases (e.g., Chroma, FAISS) for semantic search.
 
-### 8. Agentic RAG (08-agentic-rag)
+#### 8. Agentic RAG (08-agentic-rag)
 The Peak of the Learning Path: Combine agents with RAG (Retrieval-Augmented Generation).
 
 Advanced Reasoning: Build an agent that can intelligently retrieve and synthesize information from external documents to answer complex, multi-step queries.
